@@ -62,7 +62,7 @@ model.add(Dense(units=4096,activation="relu"))
 model.add(Dense(units=3, activation="softmax"))
 
 # -- Compile model
-opt = adam_v2.Adam(learning_rate=0.001)
+opt = adam_v2.Adam(learning_rate=0.0001)
 model.compile(optimizer=opt, loss=keras.losses.categorical_crossentropy, metrics=['accuracy'])
 
 model.summary()
