@@ -7,6 +7,10 @@ https://laurencemoroney.com/datasets.html#rock-paper-scissors-dataset
 * 300x300 pixels
 * 24-bit color
 * Plain white background
+* Image count:
+  * 2525 train
+  * 377 test
+  * 33 validate
 
 ## Setup
 ```bash
