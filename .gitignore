@@ -131,3 +131,5 @@ dmypy.json
 data/
 out.txt
 *.h5
+graphs/
+models/
