@@ -23,5 +23,10 @@ pip install -r requirements.txt
 sh download_dataset.sh
 ```
 
+## Todo
+Use the below file as reference to make my code object oriented.
+
+https://github.com/geifmany/cifar-vgg/blob/master/cifar10vgg.py
+
 ## References
 * https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c
